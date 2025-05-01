@@ -1,0 +1,9 @@
+"Apple 10", "Apple 11", "Apple 12", "Apple 13", "Apple 14", "Apple 17", "Apple 18", "Apple 19", "Apple 5",
+"Apple 7", "Apple 8", "Apple 9", "Apple Core 1", "Apple Red Yellow 2", "Apple worm 1", "Banana 3",
+"Beans 1", "Blackberrie 1", "Blackberrie 2", "Blackberrie half rippen 1", "Blackberrie not rippen 1",
+"Cabbage red 1", "Cactus fruit green 1", "Cactus fruit red 1", "Caju seed 1", "Cherimoya 1", "Cherry 3",
+"Cherry 4", "Cherry 5", "Cherry Rainier 2", "Cherry Rainier 3", "Cherry Sour 1", "Cherry Wax Red 2",
+"Cherry Wax Red 3", "Cherry Wax not ripen 1", "Cherry Wax not ripen 2", "Cucumber 10", "Cucumber 9",
+"Gooseberry 1", "Pistachio 1", "Quince 2", "Quince 3", "Quince 4", "Tomato 1", "Tomato 10", "Tomato 5",
+"Tomato 7", "Tomato 8", "Tomato 9", "Tomato Cherry Maroon 1", "Tomato Cherry Orange 1",
+"Tomato Cherry Red 2", "Tomato Cherry Yellow 1", "Tomato Maroon 2", "apple_6", "apple_braeburn_1"
