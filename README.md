@@ -1,1 +1,0 @@
-# Klasifikasi Pada nama-nama buah

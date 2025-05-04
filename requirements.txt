@@ -361,7 +361,7 @@ optree==0.15.0
 orbax-checkpoint==0.11.12
 orjson==3.10.17
 osqp==1.0.3
-packaging==24.2
+packaging==23.2
 pandas==2.2.2
 pandas-datareader==0.10.0
 pandas-gbq==0.28.0
@@ -535,6 +535,7 @@ tensorflow-metadata==1.17.1
 tensorflow-probability==0.25.0
 tensorflow-text==2.18.1
 tensorflow_decision_forests==1.11.0
+tensorflowjs==4.22.0
 tensorstore==0.1.74
 termcolor==3.0.1
 terminado==0.18.1
